@@ -1,0 +1,17 @@
+What Dataset it is ?
+ 
+>>So this dataset is about the sales in different cities and in this dataset we analyze the total sales and profit.
+
+Different types of analysis
+
+>>we perform different different analysis like analyze the sales for a specific months and also analyze for a specific category
+
+highest sales in month of January i.e.$400278 and the lowest sales in September and October which is around $255969.
+
+By category wise sales electronics has the highest selling category which is about 50% of overall sales and the lowest sales category is stationery which is 1.94 
+
+By city wise sales Tehran has the highest sales which is  $1044505 and the lowest sales city is qom which is about $177027
+
+Total Sales:$3726927
+Total profit:$282097
+Total Unit sold:92632
